@@ -46,5 +46,5 @@ Please read `CONTRIBUTING.md` for details on our code of conduct, and the proces
 
 ## Acknowledgments
 
-- Dataset is obtained from Kaggle
-- [Inspiration or articles that helped shape this project]: (https://www.youtube.com/@krishnaik06)
+- Dataset is downloaded from Kaggle: https://www.kaggle.com/datasets/anupamshah/perrin-freres-monthly-champagne-sales?resource=download
+- Inspiration or articles that helped shape this project: (https://www.youtube.com/@krishnaik06)
