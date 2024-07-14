@@ -20,7 +20,7 @@ Before you begin, ensure you have the following installed:
 To set up your local environment to run the notebook, follow these steps:
 
 echo "Cloning the repository..."
-git clone https://github.com/yourusername/ARIMA_and_SARIMAX.git
+git clone https://github.com/Manjusha-26/ARIMA_and_SARIMAX.git
 cd ARIMA_and_SARIMAX
 
 echo "Installing required Python packages..."
