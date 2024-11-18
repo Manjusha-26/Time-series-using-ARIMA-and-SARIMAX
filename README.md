@@ -64,11 +64,13 @@ The data spans from January 1964 to September 1972.
 Performed the following transformations to stationarize the data:
 1. **First Differencing**: Accounts for changes between consecutive months.  
    **Graph 4**: Plot of first-differenced data.
-   <img width="297" alt="image" src="https://github.com/user-attachments/assets/f9c62d21-a584-4bd4-bc93-2026442de93b">
+   
+<img width="297" alt="image" src="https://github.com/user-attachments/assets/f9c62d21-a584-4bd4-bc93-2026442de93b">
 
 3. **Seasonal Differencing**: Captures changes across months of the same season.  
    **Graph 5**: Plot of seasonally differenced data.
-   <img width="632" alt="image" src="https://github.com/user-attachments/assets/1e6ec0f6-4a8e-469a-9c1c-fab290a03af3">
+   
+<img width="632" alt="image" src="https://github.com/user-attachments/assets/1e6ec0f6-4a8e-469a-9c1c-fab290a03af3">
 
 
 After seasonal differencing:
