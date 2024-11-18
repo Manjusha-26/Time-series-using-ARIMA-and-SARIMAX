@@ -153,4 +153,3 @@ The full code, including data preprocessing, visualization, and model building, 
 ## Acknowledgments
 
 - Dataset is downloaded from Kaggle: https://www.kaggle.com/datasets/anupamshah/perrin-freres-monthly-champagne-sales?resource=download
-- Inspiration or articles that helped shape this project: (https://www.youtube.com/@krishnaik06)
